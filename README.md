@@ -1,1 +1,1 @@
-Run the colab notebook by hitting Run all
+A single colab notebook with all outputs is uploaded
